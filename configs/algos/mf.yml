@@ -1,0 +1,10 @@
+algorithm: MF
+rollout:
+  n_train_samples: 10000
+  n_dev_samples: 128
+  n_test_samples: 10000
+slbo:
+  n_stages: 100
+  n_iters: 1
+  n_policy_iters: 20
+  n_model_iters: 1

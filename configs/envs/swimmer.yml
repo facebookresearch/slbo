@@ -1,0 +1,4 @@
+env:
+  id: Swimmer-v2
+runner:
+  max_steps: 500

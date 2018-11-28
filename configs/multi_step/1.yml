@@ -1,0 +1,4 @@
+model:
+  multi_step: 1
+  dev_batch_size: 1024
+  train_batch_size: 256

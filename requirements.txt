@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pyyaml
+termcolor
+gym
+json_tricks

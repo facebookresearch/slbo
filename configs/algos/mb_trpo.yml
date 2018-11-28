@@ -1,0 +1,11 @@
+model:
+  multi_step: 2
+  dev_batch_size: 512
+  train_batch_size: 128
+slbo:
+  n_stages: 100
+  n_iters: 1
+  n_model_iters: 2000
+  n_policy_iters: 200
+TRPO:
+  ent_coef: 0.005
