@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 import tensorflow as tf
 import numpy as np
 import lunzi.nn as nn

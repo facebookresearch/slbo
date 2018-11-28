@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 import numpy as np
 from slbo.envs.mujoco.half_cheetah_env import HalfCheetahEnv
 from slbo.envs.mujoco.walker2d_env import Walker2DEnv

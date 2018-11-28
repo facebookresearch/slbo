@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 from typing import Dict, Any, Callable, List
 from collections import Counter
 import tensorflow as tf

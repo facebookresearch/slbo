@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 import tensorflow as tf
 import numpy as np
 from .module import Module

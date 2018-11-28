@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 from typing import List, Callable
 import tensorflow as tf
 import numpy as np

@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 from rllab.envs.mujoco import simple_humanoid_env
 from rllab.envs.base import Step
 import numpy as np

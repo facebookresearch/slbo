@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 from typing import List
 import numpy as np
 import tensorflow as tf
