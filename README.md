@@ -23,3 +23,7 @@ python main.py -c configs/algos/slbo.yml configs/envs/half_cheetah.yml -s log_di
 
 If you want to change hyper-parameters, you can either modify a corresponding `yml` file or 
 change it temporarily by appending `model.hidden_sizes='[1000,1000]'` in the command line.
+
+## License
+
+See [LICENSE](LICENSE) for additional details.
