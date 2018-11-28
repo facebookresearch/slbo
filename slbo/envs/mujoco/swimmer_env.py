@@ -1,4 +1,3 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 import numpy as np
 from rllab.envs.mujoco import swimmer_env
 from slbo.envs import BaseModelBasedEnv

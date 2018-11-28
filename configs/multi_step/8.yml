@@ -1,3 +1,4 @@
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 model:
   multi_step: 8
   dev_batch_size: 128
