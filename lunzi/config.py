@@ -75,7 +75,7 @@ def parse(cls):
 
     if _initialized:
         return
-    parser = argparse.ArgumentParser(description='Describe the city you live in.')
+    parser = argparse.ArgumentParser(description='Stochastic Lower Bound Optimization')
     parser.add_argument('-c', '--config', type=str, help='configuration file (YAML)', nargs='+', action='append')
     parser.add_argument('-s', '--set', type=str, help='additional options', nargs='*', action='append')
 
